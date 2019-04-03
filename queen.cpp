@@ -1,6 +1,5 @@
 #include <iostream>
-#include <algorithm>
-#include <math.h>
+
 using namespace std;
 
 int num_of_case = 0;
