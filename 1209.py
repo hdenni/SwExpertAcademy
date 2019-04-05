@@ -1,3 +1,6 @@
+'''
+https://bit.ly/2Ug3YcY
+'''
 for j in range(1,11):
     num = int(input())
     matrix = []
