@@ -1,4 +1,7 @@
-#1206 - View
+'''
+https://bit.ly/2UwIg3w
+'''
+
 for i in range(1,11):
     num = int(input())
     inputs = input()
