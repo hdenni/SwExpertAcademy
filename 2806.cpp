@@ -1,3 +1,7 @@
+/*
+https://bit.ly/2G0TeXd
+*/
+
 #include <iostream>
 
 using namespace std;
