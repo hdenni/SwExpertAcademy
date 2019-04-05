@@ -1,5 +1,6 @@
-#include <iostream>
-using namespace std;
+/*
+https://bit.ly/2WS36YV
+*/
 
 /*
 input :
@@ -12,6 +13,10 @@ ex) number=3
 8 9 4
 7 6 5
 */
+
+
+#include <iostream>
+using namespace std;
 
 int main()
 {
