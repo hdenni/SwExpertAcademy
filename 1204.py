@@ -1,5 +1,6 @@
-#1204 - 최빈값 구하기
-
+'''
+https://bit.ly/2TYgCrU
+'''
 testcase = int(input())
 
 for i in range(testcase):
