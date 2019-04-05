@@ -1,3 +1,6 @@
+'''
+https://bit.ly/2UAMEOU
+'''
 for i in range(1,11):
     num = int(input())
     boxes = input()
