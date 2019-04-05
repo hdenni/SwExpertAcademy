@@ -1,5 +1,5 @@
 /*
-https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc&categoryId=AV5LwsHaD1MDFAXc&categoryType=CODE
+https://bit.ly/2I0MNWh
 */
 
 #include <iostream>
